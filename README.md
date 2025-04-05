@@ -10,3 +10,9 @@ curl -X POST \
     "title": "Legendary 43-Year Family Canoe Story"
   }'
 ```
+
+
+```
+docker build -t ghcr.io/chrismeyersfsu/rss-audio:latest .
+docker push ghcr.io/chrismeyersfsu/rss-audio:latest
+```
