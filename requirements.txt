@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+requests
+boto3
+feedgenerator
+gtts
+pydantic
